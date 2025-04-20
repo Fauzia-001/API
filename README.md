@@ -1,6 +1,6 @@
 # API's Checkpoint
 
-https://github.com/DBusuru/API-s_Checkpoint.git
+https://github.com/Fauzia-001/API.git
 
 ## Available Scripts
 
